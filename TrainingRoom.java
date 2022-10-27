@@ -1,7 +1,7 @@
 class TrainingRoom
 {
 String courseName = "Java"; 
-int time = 1130; 
+int time = 1130; //Fields or Global Variable Declaration
 
 public static void main(String[] args)
 {
